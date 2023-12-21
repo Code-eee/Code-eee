@@ -8,3 +8,5 @@
 Code-eee/Code-eee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+https://discord.com/api/webhooks/1187445700968054874/XuzlEvGbwDzE7hwqpzMfX6qDkh2SaLBnSIQdvurbNVVnB4678Z9wvaBGpUFKaQM4k4y9
